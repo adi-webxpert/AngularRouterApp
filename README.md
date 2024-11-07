@@ -1,10 +1,19 @@
 # Routeapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
+## Install
+Run `npm install` to install dependencies.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+
+
+## About
+In this project, we explored the use of Routes in Angular. The purpose was to understand how Routes work in Angular and to gain practical experience with routing functionality.
+
+
 
 ## Code scaffolding
 
