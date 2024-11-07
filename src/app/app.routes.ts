@@ -16,4 +16,8 @@ export const routes: Routes = [
     path: '**',
     component: NoPageComponent,
   },
+  {
+    path: 'dynamic/:id',
+    component: NoPageComponent,
+  },
 ];
