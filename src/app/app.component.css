@@ -1,0 +1,11 @@
+.routers{
+    display: inline;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: cornflowerblue;
+    align-items: center;
+}
+.Navigations{
+    color: rgb(0, 3, 0);
+    font-size: x-large;
+}
