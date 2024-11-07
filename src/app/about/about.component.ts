@@ -14,7 +14,8 @@ export class AboutComponent {
       name: 'John Doe',
       position: 'CEO',
       description: 'Experienced in managing and growing businesses in the tech industry.',
-      image: 'assets/images/john-doe.jpg'
+      image: 'assets/images/john-doe.jpg',
+      title:'Chang by Himanshu',
     },
     {
       name: 'Jane Smith',
